@@ -1,7 +1,7 @@
 
 //when consdition will full fill
 
-var nameIs = "jabir"
+let nameIs = "jabir"
 if(nameIs.length > 4){
     nameIs = "juvu";
 }
