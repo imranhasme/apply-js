@@ -19,5 +19,5 @@ function factoriall(n){
 }
 
 
-var result = factoriall(10);
-console.log(result)
+
+console.log(factoriall(10))
